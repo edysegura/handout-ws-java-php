@@ -1,0 +1,3 @@
+## Primeiros passos com Amazon Web Services {#primeiros-passos-com-amazon-web-services}
+
+Para dar os primeiros passos com AWS é necessário criar uma conta no serviço. A Amazon Web Services oferece [um ano de uso gratuito em determinados serviços](http://aws.amazon.com/pt/free/) para novas contas. Porém, para usufruir desta generosa oferta, será necessário um cartão internacional no ato da criação da conta.

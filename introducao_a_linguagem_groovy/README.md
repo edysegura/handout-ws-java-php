@@ -1,0 +1,5 @@
+# Introdução a linguagem Groovy {#introdu-o-a-linguagem-groovy}
+
+Java é uma plataforma que contém uma linguagem de programação que também se chama Java, porém, essa plataforma conta também com outras linguagens além do Java. A linguagem [Groovy](http://www.groovy-lang.org/) é um exemplo.
+
+Groovy é uma poderosa linguagem dinâmica de programação para a plataforma Java com o objetivo de multiplicar a produtividade do desenvolvedor com uma sintaxe familiar e fácil de aprender. A linguagem Groovy se tornou a segunda linguagem padrão da plataforma Java através da especificação [JSR 241](https://jcp.org/en/jsr/detail?id=241). Uma das grandes vantagens em se adotar essa linguagem é a sua total compatibilidade com o legado da linguagem Java. Isso quer dizer que é possível importar classes e componentes Java em Groovy e vice-versa.

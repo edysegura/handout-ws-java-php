@@ -1,0 +1,11 @@
+# Introdução ao framework web Grails {#introdu-o-ao-framework-web-grails}
+
+[Grails](https://grails.org/) - Groovy on Rails - é um framework web de código aberto para a plataforma Java que adota as melhores práticas com base nos melhores frameworks, tais como, Spring, Hibernate e SiteMesh. Juntamente com a produtividade da linguagem Groovy, tudo é compilado e executado na robusta plataforma Java e [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html).
+
+Semelhante a maioria dos frameworks web, Grails utiliza o padrão de arquitetura MVC. No entanto, diferente de outros frameworks MVC, classes do modelo em Grails são automaticamente persistidas e podem inclusive gerar o _schema_ do banco de dados também de forma automática. As classes de serviços e outras classes do projeto podem ser automaticamente inseridas através da injeção de dependências baseada na convenção dos nomes das classes. Assim como em outros frameworks MVC, os _controllers_ do Grails manipulam as requisições HTTP e orquestram as classes de serviços e outros comportamentos.
+
+Outras vantagens do Grails incluem a configuração mínima e um ciclo de desenvolvimento mais ágil, eliminando assim a maioria das configurações padrões de uma arquitetura MVC através de uma convenção intuitiva. Devido ao framework Grails utilizar as vantagens da linguagem Groovy, esse framework diminui o ciclo do desenvolvimento permitindo que o foco do desenvolvedor seja codificar e testar, economizando um tempo valioso do desenvolvimento.
+
+Assim como um ambiente completo de desenvolvimento, Grails inclui um _web container_, banco de dados, sistema de _build_ e ferramentas para testes automatizados. Esta combinação reduz o tempo de configuração inicial do projeto de horas ou dias para minutos. Com Grails todo o ambiente necessário para o desenvolvimento web já vem pronto para uso em um simples pacote de instalação.
+
+Para um estudo aprofundado deste framework acesse a [página oficial](https://grails.org) do Grails.

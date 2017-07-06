@@ -1,0 +1,5 @@
+# Introdução a Amazon Web Services {#introdu-o-a-amazon-web-services}
+
+A Amazon Web Services - AWS - é a principal provedora de Cloud Computing do mercado, a qual oferece serviços de computação em vários níveis, armazenamento, banco de dados, além de outros serviços computacionais e suas variadas configurações.
+
+Soluções que demandam alto poder computacional fazem uso da AWS, como é o caso da própria loja de comercio eletrônico da [Amazon](https://aws.amazon.com/solutions/case-studies/amazon/). A [Nasa](https://aws.amazon.com/solutions/case-studies/swfnasa/) também faz uso da plataforma para cálculos científicos, a infraestrutura do [Netflix](https://aws.amazon.com/solutions/case-studies/netflix/), o [Projeto Genoma](https://aws.amazon.com/1000genomes/) e o [Spotify](https://aws.amazon.com/solutions/case-studies/spotify/) também são exemplos de soluções que utilizam Cloud Computing na AWS. No depoimento desses casos é possível verificar a flexibilidade, agilidade e a economia alcançada utilizando Cloud Computing.
