@@ -4,4 +4,5 @@ Com a consolidação da web como plataforma surgiu uma nova arquitetura para o d
 
 Ao mesmo tempo em que a arquitetura do desenvolvimento de software evoluiu para permitir o consumo e o provimento de serviços web, também surgiu a necessidade para que as soluções de software fossem capazes de atender e processar uma grande quantidade de dados. Essas soluções, além de ter uma alta capacidade de processamento, também precisam ter uma alta disponibilidade, ser escaláveis e tolerantes a falhas. Para atender toda essa demanda surgiu o uso de provedores de Cloud Computing.
 
-O objetivo da disciplina é introduzir o aluno no desenvolvimento de serviços web e implantá-los no provedor de Cloud Computing Amazon Web Services. Serão vistos conceitos práticos e teóricos para o desenvolvimento dos serviços web na plataforma Java e NodeJS.
+O objetivo da disciplina é introduzir o aluno no desenvolvimento de serviços web e implantá-los no provedor de Cloud Computing Amazon Web Services. Serão vistos conceitos práticos e teóricos para o desenvolvimento dos serviços web na plataforma Java e PHP.
+
