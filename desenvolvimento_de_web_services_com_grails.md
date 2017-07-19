@@ -8,8 +8,8 @@ Figura 2 – Arquitetura de web services com Grails
 
 As apresentações a seguir são recomendadas para um estudo mais aprofundado sobre o tema:
 
-* [Building Awesome APIs with Grails](http://www.infoq.com/presentations/grails-api-2014)
-* [RESTful Services in Grails](http://www.infoq.com/presentations/grails-2-3-rest)
+* Link 1
+* Link 2
 
 
 
