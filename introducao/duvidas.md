@@ -1,3 +1,4 @@
 ## Dúvidas {#d-vidas}
 
-Sinta-se à vontade para entrar em contato com o professor em caso de dúvidas ou para demais esclarecimentos – edysegura@inatel.br ou edysegura@gmail.com.
+Sinta-se livre para entrar em contato com o professor em caso de dúvidas ou para demais esclarecimentos através do [slack](https://slack.com/) ou do e-mail edysegura@gmail.com.
+
