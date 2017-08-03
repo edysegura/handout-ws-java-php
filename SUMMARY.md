@@ -11,6 +11,7 @@
 * [REST APIs](rest-apis.md)
 * [Java](introducao-a-linguagem-java.md)
   * [Gradle](gradle.md)
+  * [Jersey](jersey.md)
   * [Desenvolvimento de REST APIs com Java](desenvolvimento_de_web_services_com_grails.md)
 * [PHP](introducao-a-linguagem-php.md)
   * [Ambiente de desenvolvimento](introducao-a-linguagem-php/ambiente-de-desenvolvimento.md)
