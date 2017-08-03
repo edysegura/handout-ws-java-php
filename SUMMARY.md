@@ -8,6 +8,7 @@
   * [Caixa de ferramentas](introducao/caixa_de_ferramentas.md)
   * [Avaliação](introducao/avaliacao.md)
   * [Dúvidas](introducao/duvidas.md)
+* [Introdução a linguagem PHP](introducao-a-linguagem-php.md)
 * [REST APIs](rest-apis.md)
 * [Desenvolvimento de Web Services com Grails](desenvolvimento_de_web_services_com_grails.md)
 * [Desenvolvimento de Web Services com NodeJS](desenvolvimento_de_web_services_com_nodejs.md)
