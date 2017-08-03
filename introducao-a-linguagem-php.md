@@ -4,5 +4,12 @@ PHP é uma linguagem de programação _server-side_ criada em 1995 e foi projeta
 
 ![](/assets/php-report.png)
 
+Link para o relatório completo: [http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
+
+Para um estudo mais aprofundado sobre a linguagem PHP são recomendados os links a seguir:
+
+* [http://www.phptherightway.com/](http://www.phptherightway.com/)
+* [http://php.net   ](http://php.net) 
+
 
 
