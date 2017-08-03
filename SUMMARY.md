@@ -9,6 +9,7 @@
   * [Avaliação](introducao/avaliacao.md)
   * [Dúvidas](introducao/duvidas.md)
 * [Introdução a linguagem PHP](introducao-a-linguagem-php.md)
+  * [Ambiente de desenvolvimento](introducao-a-linguagem-php/ambiente-de-desenvolvimento.md)
 * [REST APIs](rest-apis.md)
 * [Desenvolvimento de Web Services com Grails](desenvolvimento_de_web_services_com_grails.md)
 * [Desenvolvimento de Web Services com NodeJS](desenvolvimento_de_web_services_com_nodejs.md)
